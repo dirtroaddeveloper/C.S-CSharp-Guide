@@ -1,6 +1,6 @@
 
 <!-- TOC --><a name="p1xt-guides-version-60"></a>
-# C.S. Guide - Version 1 - Updated for a more linear path (different Java resources as well)
+# C.S. C# Guide - Version 1 
 
 Created from P1XTs path. Updated to add some stuff for me to do and to fit me more. 
 
@@ -130,13 +130,14 @@ The goal of Tier 3 is to gain skills that will serve you well as you begin a job
     
 | Activity                                                                                                                                                                                                   | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Computer Science: University Of Helsinki Programming 1](https://java-programming.mooc.fi/)                                                                                                         |        |          |
-| [Computer Science: University Of Helsinki Programming 2](http://java-programming.mooc.fi/part-2)                                                                                                         |        |          |
+| [Computer Science: University Of Helsinki Programming 1](https://java-programming.mooc.fi/)                                                                                                                |        |          |
+| [Computer Science: University Of Helsinki Programming 2](http://java-programming.mooc.fi/part-2)                                                                                                           |        |          |
 | [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)                                                                                                         |        |          |
-| [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines)                                                                                         |        |          |
-| [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)                                                                                                                                      |        |          |
-| [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2)                                                                                                                                     |        |          |
-| [MongoDB Java Developer Path](https://learn.mongodb.com/learning-paths/mongodb-java-developer-path?sessionFields=%5B%5B%22format%22%2C%22Free%22%5D%2C%5B%22certifiction%22%2C%22Learning%20Path%22%5D%5D) |        |          |
+| [Computer Science: Data Structures and Algorithms](https://www.coursera.org/learn/msft-data-structures-and-algorithms#modules)                                                                             |        |          |
+| [C# Data Structures and Algorithms](https://www.packtpub.com/en-cy/product/c-data-structures-and-algorithms-9781803248271?srsltid=AfmBOoqnESWx2gGF8GwhcekPOJ8tKpbJpzJ8uqYjA75u0ba5CbjeoMw4)
+                                |        |          |
+| [MongoDB C# Developer Path](https://learn.mongodb.com/learning-paths/using-mongodb-with-c-sharp)
+                                |        |          |
 | [Exercism Java](https://exercism.org/tracks/java)                                                                                                                                                          |        |          |
 | [NeetCode 150](https://neetcode.io/practice)                                                                                                                                                               |        |          |
 | [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)                                                                                                                            |        |          |
