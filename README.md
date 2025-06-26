@@ -130,21 +130,21 @@ The goal of Tier 3 is to gain skills that will serve you well as you begin a job
     
 | Activity                                                                                                                                                                                                   | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Computer Science: University Of Helsinki Programming 1](https://java-programming.mooc.fi/)                                                                                                                |        |          |
-| [Computer Science: University Of Helsinki Programming 2](http://java-programming.mooc.fi/part-2)                                                                                                           |        |          |
-| [Computer Science: Programming with a Purpose](https://www.coursera.org/learn/cs-programming-java)                                                                                                         |        |          |
+| [Microsoft Learn: Tour of C# ](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)                                                                                                                |        |          |
+| [Microsoft Learn: C# for Beginners](https://learn.microsoft.com/en-us/shows/csharp-for-beginners/)                                                                                                           |        |          |
+| [Computer Science: C# Academy](https://www.thecsharpacademy.com/)                                                                                                                                            |        |          |
 | [Computer Science: Data Structures and Algorithms](https://www.coursera.org/learn/msft-data-structures-and-algorithms#modules)                                                                            |        |          |
 | [MongoDB C# Developer Path](https://learn.mongodb.com/learning-paths/using-mongodb-with-c-sharp) |        |          |
 | [C# Data Structures and Algorithms](https://www.packtpub.com/en-cy/product/c-data-structures-and-algorithms-9781803248271?srsltid=AfmBOoqnESWx2gGF8GwhcekPOJ8tKpbJpzJ8uqYjA75u0ba5CbjeoMw4) |        |          |
-| [Exercism Java](https://exercism.org/tracks/java)                                                                                                                                                          |        |          |
+| [Exercism C#](https://exercism.org/tracks/csharp)                                                                                                                                                          |        |          |
 | [NeetCode 150](https://neetcode.io/practice)                                                                                                                                                               |        |          |
 | [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)                                                                                                                            |        |          |
 | [100 Challenges on CodinGame](https://www.codingame.com/training)                                                                                                                                          |        |          |
 
 | Reading                                                           | Status | Evidence |
 | :---------------------------------------------------------------- | :----: | :------: |
-| [Oracle's Java Documentation](https://dev.java/learn/)            |        |          |
-| [The Algorithms - Java](https://github.com/TheAlgorithms/Java)    |        |          | --> |
+| [Microsoft C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)            |        |          |
+
 
 <!-- TOC --><a name="tier-4-develop-a-portfolio"></a>
 ## Tier 4 - Develop a Portfolio
