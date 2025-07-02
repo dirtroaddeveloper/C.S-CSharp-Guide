@@ -108,7 +108,6 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
    
 | Courses                                                                                                                                                                                                        | Status | Evidence |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                                                                 |        |          |
 | [Microsoft Learn: Tour of C# ](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)                                                                                                                |        |          |
 | [Microsoft Learn: C# for Beginners](https://learn.microsoft.com/en-us/shows/csharp-for-beginners/)                                                                                                           |        |          |
 | [Microsoft Full-Stack Developer Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-full-stack-developer#courses)                                                                                                                                            |        |          |
