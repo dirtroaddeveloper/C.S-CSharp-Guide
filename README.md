@@ -12,22 +12,19 @@ Created from P1XTs path. Updated to add some stuff for me to do and to fit me mo
   - [Tier 1 - Web Development Foundation](#tier-1---web-development-foundation)
     - [Goal](#goal)
     - [Instructions:](#instructions)
-  - [Tier 2 - Practice](#tier-2---practice)
+  - [Tier 2 - Computer Science](#tier-2---computerscience)
     - [Goal](#goal-1)
     - [Tier 2 - Computer Science focus](#tier-2---computer-science-focus)
       - [Instructions:](#instructions-1)
-  - [Tier 3 - Interview Prep](#tier-3---interview-prep)
-    - [Goal](#goal-2)
-    - [Instructions:](#instructions-2)
-  - [Tier 4 - Develop a Portfolio](#tier-4---develop-a-portfolio)
+  - [Tier 3 - Develop a Portfolio](#tier-3---develop-a-portfolio)
     - [Goal](#goal-3)
     - [Instructions:](#instructions-3)
-  - [Tier 5 - Dive Deeper](#tier-5---dive-deeper)
+  - [Tier 4 - Dive Deeper](#tier-4---dive-deeper)
     - [Goal](#goal-4)
-    - [Tier 5 - Focus Area - React](#tier-5---focus-area---react)
+    - [Tier 4 - Focus Area - React](#tier-4---focus-area---react)
       - [Instructions:](#instructions-4)
-    - [Tier 5 - Focus Area - Mathematics](#tier-5---focus-area---mathematics)
-    - [Tier 5 - Focus Area - Computer Science](#tier-5---focus-area---computer-science)
+    - [Tier 4 - Focus Area - Mathematics](#tier-4---focus-area---mathematics)
+    - [Tier 4 - Focus Area - Computer Science](#tier-4---focus-area---computer-science)
   - [Notes](#notes)
 
 <!-- TOC end -->
@@ -79,13 +76,11 @@ The goal of Tier 1 is to gain a robust foundational knowledge of web development
 | [CSS Tricks](https://css-tricks.com/guides/)                              |        |          |
 
 
-<!-- TOC --><a name="tier-2-practice"></a>
-## Tier 2 - Practice
+<!-- TOC --><a name="tier-2-computerscience"></a>
+## Tier 2 - Computer Science
 
 ### Goal
 The goal of Tier 2 is to gain substantial hands-on programming practice. You have two options for selecting where you'd prefer to dedicate that practice.
-
-### Tier 2 - Computer Science focus
 
 #### Instructions:
 - Proceed through the courses in order
@@ -100,35 +95,6 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 | Courses                                                                                                                                                                                                        | Status | Evidence |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
 | [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                                                                 |        |          |
-| [CS50's Web Programming with Python and JavaScript ](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                    |        |          |
-| [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)                                                                        |        |          |
-
-
-| Reading                                                  | Status | Evidence |
-| :------------------------------------------------------- | :----: | :------: |
-| [W3 Schools C Programming](https://www.w3schools.com/c/) |        |          |
-| [Python](https://docs.python.org/3/)                     |        |          |
-| [SQLBolt](https://sqlbolt.com/)                          |        |          |
-
-
-
-<!-- TOC --><a name="tier-3-interview-prep"></a>
-## Tier 3 - Interview Prep
-
-### Goal
-The goal of Tier 3 is to gain skills that will serve you well as you begin a job search. This tier dives deep into data structures and algorithms which will not only help in interviews but will also teach you to create efficient code that will work well on the job. The programming language used for this tier is Java and that choice is intentional as familiarity with a more structured language will inform how you program in whichever language you might be using in the future. 
-
-### Instructions:
-- Proceed through the courses in order
-- Always be practicing. Ideas for practice:
-  - Challenges on [CodinGame](https://www.codingame.com/training) in Java. Note that, for the first time, CodinGame also shows up in the activities below. You should aim to have finished 100 challenges on CodinGame from a mix of difficulty levels before completing this tier.
-  - Math progression on [Khan Academy](https://www.khanacademy.org/math). This is the tier where you'll really notice it if you haven't been building up your math skill - often, understanding an algorithm is more about understanding how it works logically (mathematically) than knowing how to program it.
-  - [Ask ChatGPT to assign you a programming challenge](./RequestingChallengesFromAI.md) 
-- Take time to read from the reading list
-- Near the end of this tier, polish up two of your best projects, showcasing your best work, for potential leverage in creating your portfolio in Tier 4.
-    
-| Activity                                                                                                                                                                                                   | Status | Evidence |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
 | [Microsoft Learn: Tour of C# ](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)                                                                                                                |        |          |
 | [Microsoft Learn: C# for Beginners](https://learn.microsoft.com/en-us/shows/csharp-for-beginners/)                                                                                                           |        |          |
 | [Microsoft Full-Stack Developer Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-full-stack-developer#courses)                                                                                                                                            |        |          |
@@ -140,17 +106,24 @@ The goal of Tier 3 is to gain skills that will serve you well as you begin a job
 | [NeetCode 150](https://neetcode.io/practice)                                                                                                                                                               |        |          |
 | [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)                                                                                                                            |        |          |
 | [100 Challenges on CodinGame](https://www.codingame.com/training)                                                                                                                                          |        |          |
-
-| Reading                                                           | Status | Evidence |
-| :---------------------------------------------------------------- | :----: | :------: |
-| [Microsoft C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)            |        |          |
+| [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)                                                                        |        |          |
 
 
-<!-- TOC --><a name="tier-4-develop-a-portfolio"></a>
-## Tier 4 - Develop a Portfolio
+| Reading                                                  | Status | Evidence |
+| :------------------------------------------------------- | :----: | :------: |
+| [W3 Schools C Programming](https://www.w3schools.com/c/) |        |          |
+| [Python](https://docs.python.org/3/)                     |        |          |
+| [SQLBolt](https://sqlbolt.com/)                          |        |          |
+| [Microsoft C# Documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)            |        |        |
+
+
+
+<!-- TOC --><a name="tier-3-interview-prep"></a>
+
+## Tier 3 - Develop a Portfolio
 
 ### Goal
-The goal of Tier 4 is to polish a portfolio of your best work.
+The goal of Tier 3 is to polish a portfolio of your best work.
 
 ### Instructions:
 - Create an online portfolio of your best work. You can:
@@ -164,14 +137,14 @@ The goal of Tier 4 is to polish a portfolio of your best work.
 - If you need project ideas, ask ChatGPT using very specific prompts for project ideas of the scope you need and using the skills and technologies you'd like to highlight
   
 <!-- TOC --><a name="tier-5-dive-deeper"></a>
-## Tier 5 - Dive Deeper
+## Tier 4 - Dive Deeper
 
 ### Goal
 The goal of Tier 5 is to enhance your knowledge and abilities by deep diving into areas of particular interest to you. Select one or more focus areas as your interests dictate.
 
 **Select any area that interests you for further study:**
 
-### Tier 5 - Focus Area - React
+### Tier 4 - Focus Area - React
 
 You will notice that the resources listed here for React are not courses,YouTube playlists, or podcasts where other people teach you React. This section lists the official docs. This is because:
 - by this point you should be capable of, and consistently, "reading the docs"
@@ -201,7 +174,7 @@ You will notice that the resources listed here for React are not courses,YouTube
 | [Jest](https://jestjs.io/)                                                            |        |          |
 | [Storybook](https://storybook.js.org/)                                                |        |          |
 
-### Tier 5 - Focus Area - Mathematics
+### Tier 4 - Focus Area - Mathematics
 
 Note: For this Focus Area, feel free to dive into it in its entirety, or just do a course or two here and there to supplement one of the other focus areas. You will notice that if you start working through the Computer Science Focus Area, from time to time, one of the Mathematics courses from this Focus Area will be listed as a pre-requisite.
 | Courses                                                                                                                               | Status | Evidence |
@@ -215,7 +188,7 @@ Note: For this Focus Area, feel free to dive into it in its entirety, or just do
                                                                                                       
 
 
-### Tier 5 - Focus Area - Computer Science
+### Tier 4 - Focus Area - Computer Science
 
 Note: This focus area dives a bit deeper into nitty-gritty computer science topics. Feel free to jump around and take whichever courses sound most interesting to you. (Structure and Interpretation of Computer Programs is one of my favorites.) You will, at times, find that a course has a mathematics course pre-requisite - those courses may be found in the Mathematics Focus Area above.
 | Courses                                                                                                                                                                             | Status | Evidence |
