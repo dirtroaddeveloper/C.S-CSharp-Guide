@@ -40,7 +40,7 @@ The goal of Tier 0 is to gain a robust foundational knowledge of computer scienc
   
 | Activity                                                                                                                                                                     | Status | Evidence |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                               |        |          |
+| [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                               |   X   |          |
                      
 <!-- TOC --><a name="tier-1-web-development-foundation"></a>
 <!-- TOC --><a name="tier-1-web-development-foundation"></a>
