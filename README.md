@@ -102,7 +102,6 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
 | [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                                                                 |        |          |
 | [CS50's Web Programming with Python and JavaScript ](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                    |        |          |
 | [CS50's Introduction to Databases with SQL](https://www.edx.org/learn/sql/harvard-university-cs50-s-introduction-to-databases-with-sql)                                                                        |        |          |
-| [MongoDB Python  Developer Path ](https://learn.mongodb.com/learning-paths/mongodb-python-developer-path) |        |          |
 
 
 | Reading                                                  | Status | Evidence |
@@ -132,6 +131,7 @@ The goal of Tier 3 is to gain skills that will serve you well as you begin a job
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
 | [Microsoft Learn: Tour of C# ](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/tutorials/)                                                                                                                |        |          |
 | [Microsoft Learn: C# for Beginners](https://learn.microsoft.com/en-us/shows/csharp-for-beginners/)                                                                                                           |        |          |
+| [Microsoft Full-Stack Developer Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-full-stack-developer#courses)                                                                                                                                            |        |          |
 | [Computer Science: C# Academy](https://www.thecsharpacademy.com/)                                                                                                                                            |        |          |
 | [Computer Science: Data Structures and Algorithms](https://www.coursera.org/learn/msft-data-structures-and-algorithms#modules)                                                                            |        |          |
 | [MongoDB C# Developer Path](https://learn.mongodb.com/learning-paths/using-mongodb-with-c-sharp) |        |          |
