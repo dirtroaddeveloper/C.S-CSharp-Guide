@@ -9,6 +9,8 @@ Created from P1XTs path. Updated to add some stuff for me to do and to fit me mo
 ## Table of Contents
 - [C.S. Guide - Version 1 - Updated for a more linear path (different Java resources as well)](#cs-guide---version-1---updated-for-a-more-linear-path-different-java-resources-as-well)
   - [Table of Contents](#table-of-contents)
+  - [Tier 0 - Computer Science Foundations](#tier-0---computer-science-foundations)
+    - [Goal](#goal-1)
   - [Tier 1 - Web Development Foundation](#tier-1---web-development-foundation)
     - [Goal](#goal)
     - [Instructions:](#instructions)
@@ -28,7 +30,19 @@ Created from P1XTs path. Updated to add some stuff for me to do and to fit me mo
   - [Notes](#notes)
 
 <!-- TOC end -->
+<!-- TOC --><a name="tier-0---computer-science-foundations"></a>
+## Tier 0 - Web Development Foundation
 
+### Goal
+The goal of Tier 0 is to gain a robust foundational knowledge of computer science and become confident at coding beginner to intermediate-level web projects. It should provide a stepping stone for branching into other facets of development or for diving deeper into more advanced web development.
+
+
+  
+| Activity                                                                                                                                                                     | Status | Evidence |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
+| [CS50x](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)                                                               |        |          |
+                     
+<!-- TOC --><a name="tier-1-web-development-foundation"></a>
 <!-- TOC --><a name="tier-1-web-development-foundation"></a>
 ## Tier 1 - Web Development Foundation
 
