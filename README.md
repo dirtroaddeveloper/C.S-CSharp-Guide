@@ -108,7 +108,7 @@ The goal of Tier 2 is to gain substantial hands-on programming practice. You hav
    
 | Courses                                                                                                                                                                                                        | Status | Evidence |
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----: | :------: |
-| [Microsoft Learn: Learn C# ](https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07)                                                                                                                |        |          |
+| [Microsoft Learn: Learn C# ](https://learn.microsoft.com/en-us/collections/yz26f8y64n7k07)                                                                                                                |    X    |          |
 | [Microsoft Learn: C# for Beginners](https://learn.microsoft.com/en-us/shows/csharp-for-beginners/)                                                                                                           |        |          |
 | [Microsoft Full-Stack Developer Professional Certificate](https://www.coursera.org/professional-certificates/microsoft-full-stack-developer#courses)                                                                                                                                            |        |          |
 | [Computer Science: C# Academy](https://www.thecsharpacademy.com/)                                                                                                                                            |        |          |
